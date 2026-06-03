@@ -10,7 +10,7 @@ function log(level, message) {
     console.log(logMessage);
 
     // Also write logs to a file for persistent tracking
-    const logFile = path.join(__dirname, 'app.log');
+    const logFile = path.join('d:', 'projects', '2330249', 'logging_middleware', 'app.log');
     fs.appendFileSync(logFile, logMessage + '\n');
 }
 

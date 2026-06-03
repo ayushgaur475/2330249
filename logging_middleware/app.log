@@ -11,3 +11,37 @@
 [2026-06-03T09:38:39.303Z] [INFO] - Successfully fetched 20 notifications.
 [2026-06-03T09:38:39.303Z] [INFO] - Sorting notifications based on Priority (Weight) and Recency...
 [2026-06-03T09:38:39.305Z] [INFO] - Successfully extracted Top 10 notifications.
+[2026-06-03T10:32:38.561Z] [INFO] - Initializing Notification Fetcher for Stage 1...
+[2026-06-03T10:32:38.575Z] [INFO] - Fetching notifications from API...
+[2026-06-03T10:32:38.823Z] [ERROR] - Error fetching or processing notifications: API returned status: 401
+[2026-06-03T10:34:20.393Z] [INFO] - Initializing Notification Fetcher for Stage 1...
+[2026-06-03T10:34:20.397Z] [INFO] - Fetching notifications from API...
+[2026-06-03T10:34:20.667Z] [INFO] - Successfully fetched 20 notifications.
+[2026-06-03T10:34:20.667Z] [INFO] - Sorting notifications based on Priority (Weight) and Recency...
+[2026-06-03T10:34:20.668Z] [INFO] - Successfully extracted Top 10 notifications.
+[2026-06-03T10:36:00.312Z] [INFO] - Next.js API hit: page=1, limit=100, type=
+[2026-06-03T10:36:01.141Z] [ERROR] - Error in Next.js proxy route: API returned status 400
+[2026-06-03T10:38:10.474Z] [INFO] - Next.js API hit: page=1, limit=100, type=
+[2026-06-03T10:38:11.022Z] [INFO] - Successfully proxied 20 notifications to frontend.
+[2026-06-03T10:39:17.631Z] [INFO] - Next.js API hit: page=1, limit=100, type=
+[2026-06-03T10:39:17.873Z] [INFO] - Successfully proxied 20 notifications to frontend.
+[2026-06-03T10:39:22.781Z] [INFO] - Next.js API hit: page=1, limit=100, type=
+[2026-06-03T10:39:23.732Z] [INFO] - Successfully proxied 20 notifications to frontend.
+[2026-06-03T10:39:28.641Z] [INFO] - Next.js API hit: page=1, limit=10, type=
+[2026-06-03T10:39:28.889Z] [INFO] - Successfully proxied 20 notifications to frontend.
+[2026-06-03T10:39:28.911Z] [INFO] - Next.js API hit: page=1, limit=10, type=
+[2026-06-03T10:39:29.046Z] [INFO] - Successfully proxied 20 notifications to frontend.
+[2026-06-03T10:40:11.276Z] [INFO] - Next.js API hit: page=10, limit=10, type=
+[2026-06-03T10:40:11.900Z] [INFO] - Successfully proxied 20 notifications to frontend.
+[2026-06-03T10:40:14.453Z] [INFO] - Next.js API hit: page=1, limit=10, type=Result
+[2026-06-03T10:40:14.735Z] [INFO] - Successfully proxied 20 notifications to frontend.
+[2026-06-03T10:40:16.920Z] [INFO] - Next.js API hit: page=1, limit=10, type=Placement
+[2026-06-03T10:40:17.671Z] [INFO] - Successfully proxied 20 notifications to frontend.
+[2026-06-03T10:41:26.587Z] [INFO] - Next.js API hit: page=1, limit=100, type=
+[2026-06-03T10:41:26.838Z] [INFO] - Successfully proxied 20 notifications to frontend.
+[2026-06-03T10:41:26.867Z] [INFO] - Next.js API hit: page=1, limit=100, type=
+[2026-06-03T10:41:26.970Z] [INFO] - Successfully proxied 20 notifications to frontend.
+[2026-06-03T10:44:27.023Z] [INFO] - Next.js API hit: page=1, limit=100, type=
+[2026-06-03T10:44:27.220Z] [INFO] - Successfully proxied 20 notifications to frontend.
+[2026-06-03T10:45:45.684Z] [INFO] - Next.js API hit: page=1, limit=100, type=
+[2026-06-03T10:45:51.231Z] [INFO] - Successfully proxied 20 notifications to frontend.
